@@ -73,5 +73,5 @@ def poll(uid):
     return json.dumps(msg)
 
 if __name__ == "__main__":
-    http = WSGIServer(('', 5000), app)
+    http = WSGIServer(('', 3000), app)
     http.serve_forever()
