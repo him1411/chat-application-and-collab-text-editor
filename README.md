@@ -1,3 +1,3 @@
 ## Chat application with a collaborative text editor
 
-This is a chat application written in python using flask framework along with a collaborative text editor using firepad. Bith of the applications can be deployed over lan
+<h4>This is a chat application written in python using flask framework along with a collaborative text editor using firepad. Both of the applications can be deployed over a Local Area Network</h4>
